@@ -6,3 +6,4 @@ Proyectos realizado con un inventario en terminal windows.
 
 ## Desarrollo web - React
 Tienda online con carrito de compras.
+![Captura de Proyecto](/react/capturaTienda.png)
